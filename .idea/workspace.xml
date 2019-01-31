@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="download_tool" targetName="download_tool" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="298cf208-5589-4596-b676-1a0434a80569" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/tools/Downloader.h" beforeDir="false" afterPath="$PROJECT_DIR$/tools/Downloader.h" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tools/Downloader.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+              <folding>
+                <element signature="e#46#68#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tools/Downloader.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#2#0" />
+                <element signature="e#71#197#0" />
+                <element signature="e#199#1312#0" />
+                <element signature="e#1314#1385#0" />
+                <element signature="e#1387#1443#0" />
+                <element signature="e#1445#1579#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/tool/Downloader.h" />
+        <option value="$PROJECT_DIR$/tool/Downloader.cpp" />
+        <option value="$PROJECT_DIR$/main.cpp" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/tools/Downloader.cpp" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/tools/Downloader.h" />
+        <option value="$PROJECT_DIR$/cmake-build-debug/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="2560" />
+    <option name="height" value="1417" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="download_tool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="download_tool" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="download_tool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="download_tool" type="462c0819:PsiDirectoryNode" />
+              <item name="cmake-build-debug" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="download_tool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="download_tool" type="462c0819:PsiDirectoryNode" />
+              <item name="tools" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="298cf208-5589-4596-b676-1a0434a80569" name="Default Changelist" comment="" />
+      <created>1548913427349</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548913427349</updated>
+      <workItem from="1548913428807" duration="2548000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2708000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="2560" height="1417" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25178713" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32981133" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32981133" />
+      <window_info anchor="bottom" id="CMake" order="12" weight="0.32981133" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.md" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="26" column="6" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cmake-build-debug/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#1393#1414#0" expanded="true" />
+            <element signature="e#15342#15375#0" expanded="true" />
+            <element signature="e#30590#30610#0" expanded="true" />
+            <element signature="e#37911#37943#0" expanded="true" />
+            <element signature="e#37978#38010#0" expanded="true" />
+            <element signature="e#38045#38077#0" expanded="true" />
+            <element signature="e#38310#38342#0" expanded="true" />
+            <element signature="e#38377#38409#0" expanded="true" />
+            <element signature="e#38444#38476#0" expanded="true" />
+            <element signature="e#38710#38742#0" expanded="true" />
+            <element signature="e#38777#38809#0" expanded="true" />
+            <element signature="e#38844#38876#0" expanded="true" />
+            <element signature="e#43827#43907#0" expanded="true" />
+            <element signature="e#43928#44008#0" expanded="true" />
+            <element signature="e#44029#44109#0" expanded="true" />
+            <element signature="e#44130#44210#0" expanded="true" />
+            <element signature="e#44231#44311#0" expanded="true" />
+            <element signature="e#44332#44412#0" expanded="true" />
+            <element signature="e#44433#44514#0" expanded="true" />
+            <element signature="e#44535#44615#0" expanded="true" />
+            <element signature="e#44636#44716#0" expanded="true" />
+            <element signature="e#44737#44817#0" expanded="true" />
+            <element signature="e#44838#44918#0" expanded="true" />
+            <element signature="e#44939#45020#0" expanded="true" />
+            <element signature="e#45041#45122#0" expanded="true" />
+            <element signature="e#45143#45224#0" expanded="true" />
+            <element signature="e#45245#45326#0" expanded="true" />
+            <element signature="e#45347#45428#0" expanded="true" />
+            <element signature="e#45449#45530#0" expanded="true" />
+            <element signature="e#45551#45632#0" expanded="true" />
+            <element signature="e#45653#45734#0" expanded="true" />
+            <element signature="e#45755#45836#0" expanded="true" />
+            <element signature="e#45857#45938#0" expanded="true" />
+            <element signature="e#45959#46040#0" expanded="true" />
+            <element signature="e#46061#46142#0" expanded="true" />
+            <element signature="e#46163#46244#0" expanded="true" />
+            <element signature="e#46265#46346#0" expanded="true" />
+            <element signature="e#46367#46448#0" expanded="true" />
+            <element signature="e#46469#46550#0" expanded="true" />
+            <element signature="e#46571#46652#0" expanded="true" />
+            <element signature="e#46673#46754#0" expanded="true" />
+            <element signature="e#46775#46856#0" expanded="true" />
+            <element signature="e#46877#46958#0" expanded="true" />
+            <element signature="e#46979#47060#0" expanded="true" />
+            <element signature="e#47081#47162#0" expanded="true" />
+            <element signature="e#47183#47264#0" expanded="true" />
+            <element signature="e#47285#47366#0" expanded="true" />
+            <element signature="e#47387#47468#0" expanded="true" />
+            <element signature="e#49552#49572#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/Downloader.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#46#68#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tools/Downloader.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#2#0" />
+            <element signature="e#71#197#0" />
+            <element signature="e#199#1312#0" />
+            <element signature="e#1314#1385#0" />
+            <element signature="e#1387#1443#0" />
+            <element signature="e#1445#1579#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

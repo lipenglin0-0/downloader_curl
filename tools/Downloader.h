@@ -8,19 +8,18 @@
 using namespace std;
 
 class Downloader {
-private:
-    CURLcode res;
-    void *curl;
-
 public:
     Downloader();
 
     ~Downloader();
 
-    void download(const string target,const string uri);
+    void download(const string target, const string uri);
+
+private:
+    CURLcode res;
+    void *curl;
 
     bool checkOperation() const;
 
     static size_t writeFunc(void *buffer, size_t size, size_t count, void *f);
-
 };
